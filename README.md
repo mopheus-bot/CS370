@@ -2,7 +2,10 @@
 Emerging Trends in CS
 
 
+For this project, I was given the code to instantiate the environment, including a maze object defined as a matrix. The starter code also contained  methods for resetting the pirate position, updating the
+state based on pirate movement, returning rewards based on agent movement guidelines, keeping track of the state and total reward based on agent action, determining the current environment state and game status, listing the valid actions from the current cell, and a visualization method for graphical display of environment and agent action. The code for experience replay that stores the episodes and all game states that are in between the initial state and termination state, as well as the neural network model and implementation of a gameplay emulation for testing, were also provided.
 
+I have implemented the deep-Q learning algorithm to find the best possible navigation sequence that results in reaching the treasure cell while maximizing the reward.
 
 ## What do computer scientists do and why does it matter?
 Computer scientists design, develop, and analyze algorithms, software, and systems that solve complex problems and drive technological advancement. Their work underpins a vast array of applications, from everyday tools like search engines and social media platforms to critical systems in healthcare, finance, and security. The role of computer scientists is crucial because they push the boundaries of what technology can achieve, creating solutions that improve efficiency, enhance communication, and even save lives. Their contributions not only fuel innovation but also shape the way society interacts with and benefits from technology.
