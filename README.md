@@ -1,5 +1,5 @@
-# CS370
-Emerging Trends in CS
+# Emerging Trends in CS
+Python, Deep Reinforcement Learning, DQN, Experience Replay. CS370
 
 
 For this project, I was given the code to instantiate the environment, including a maze object defined as a matrix. The starter code also contained  methods for resetting the pirate position, updating the
